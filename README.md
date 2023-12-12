@@ -4,7 +4,7 @@
 
   <h2 align="center">Responsive Portfolio </h2>
 
-  Responsive Portfolio Website using HTML, CSS, and JavaScript.
+  Responsive Portfolio using HTML, CSS, and JavaScript.
 
   <a href="https://bhuvan240901.github.io/"><strong>Demo</strong></a>
 
